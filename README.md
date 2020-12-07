@@ -1,2 +1,5 @@
 # hello-world
-My fisrt repository
+
+Hi!
+
+Im trying to learn some coding on my free time!
